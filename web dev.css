@@ -1,0 +1,178 @@
+font{
+    padding: 0;
+    margin: 0;
+    font-family: 'Audiowide';font-size: 30.5px;
+    
+}
+
+.h1{
+    font-family: 'Audiowide';font-size: 124.5px;
+    color: #BDFFFD;
+    
+}
+
+ul {
+    display: inline-block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    border:4px solid #4642423a;
+    padding:20px;
+    text-align: center;
+    position: relative;
+    padding-inline-start: 190px;
+    padding-inline-end: 230px;
+    
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 20px 30px;
+    font-family: 'Audiowide';font-size: 20.5px;
+}    
+
+
+.bg{
+    position: relative;
+    width: 100%;
+    height: 200vh;
+    background-color: #1e2222;
+}
+
+
+    .bclass { color: #5E6973 }
+
+ 
+
+ .pic{
+    width: 400px;
+    height: 321px;
+    TOP: 355px;
+    LEFT: 70px;
+    margin-right: 32em;
+    margin-top: 1em;
+    margin-left: 30em;
+} 
+
+
+
+
+.logo{
+    width: 1300px;
+    height: 921;
+}
+
+
+
+nav{
+    display: grid;
+    width: 100%;
+    margin: 0em;
+    padding: 20px 0;
+    align-items: normal;
+    justify-content: space-between;
+}
+
+.auto-type{
+    color: rgb(153, 0, 255);
+    font-size: 30.5px;
+}
+
+.b2{
+    font-family: 'Audiowide';font-size: 31.9px;
+    color: #BDFFFD;
+}
+
+
+.b3{
+    font-family: 'Audiowide';font-size: 31.9px;
+    color: #BDFFFD;
+}
+
+
+.b4{
+    font-family: 'Audiowide';font-size: 31.9px;
+    color: #BDFFFD;
+}
+
+.b1{
+    font-family: 'Audiowide';font-size: 31.9px;
+    color: #BDFFFD;
+}
+
+.container{ display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.bi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.portcont {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
+
+  .comingsoon{
+    width: 400px;
+    height: 321px;
+  }
+
+
+
+
+
+ 
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 19px; 
+    border: 6px solid #BDFFFD;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+   
+  }
+  
+
+  input[type=submit] {
+    background-color: #BDFFFD;
+    color: rgb(94, 86, 86);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+
+  input[type=submit]:hover {
+    background-color: #076e9e;
+  }
+  
+ 
+  .container {
+    border-radius: 5px;
+    background-color: #1e2222;
+    padding: 20px;
+  }
+
+  .micro{
+    width: 600px;
+    height: 321px;
+  }
+
+  .apple{
+    width: 321px;
+    height: 321px;
+    margin-left: 10em;
+  }
